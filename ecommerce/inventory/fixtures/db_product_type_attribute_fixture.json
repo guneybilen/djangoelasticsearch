@@ -1,0 +1,9 @@
+[{
+        "model": "inventory.producttypeattribute",
+        "id": "1",
+        "fields": {
+            "product_attribute": "1",
+            "product_type": "1"
+        }
+    }
+]
